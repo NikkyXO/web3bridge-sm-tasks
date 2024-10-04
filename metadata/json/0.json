@@ -1,0 +1,19 @@
+{
+    "name": "Anthela #00",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/0.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Anime"
+        },
+        {
+            "trait_type": "Nationality",
+            "value": "Ghanaian"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Ultra"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Anthela #00",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/3.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Animal"
+        },
+        {
+            "trait_type": "Nationality",
+            "value": "Croatian"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Medium"
+        }
+    ]
+}

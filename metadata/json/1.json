@@ -1,0 +1,19 @@
+{
+    "name": "Anthela #01",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/1.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Cartoon"
+        },
+        {
+            "trait_type": "Nationality",
+            "value": "Nigerian"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Ultra"
+        }
+    ]
+}

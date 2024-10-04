@@ -1,0 +1,19 @@
+{
+    "name": "Anthela #02",
+    "description": "",
+    "image": "ipfs://QmaQ1VKZPPCXfz87ZdbnYmEgtZ4PeLFgJCpcqAAVUdrAZ8/2.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        },
+        {
+            "trait_type": "Mationality",
+            "value": "Kenyan"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Slow"
+        }
+    ]
+}
